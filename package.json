@@ -1,0 +1,18 @@
+{
+  "name": "first_docker_web_app",
+  "version": "1.0.0",
+  "description": "This is the first time im using node, npm and docker. I will be dockerising the web application.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purdonkle"
+  },
+  "author": "Adam Purdon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
